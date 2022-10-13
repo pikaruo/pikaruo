@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm pikaruo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from Java</h3>
+
+https://lh3.googleusercontent.com/drive-viewer/AJc5JmSouKE6XAD0i_mMzdXpHWgy_-XKIF3d4pQ0DGiiZr8Xz7zH9KP-zTrSR3ldQburfEf8o65C_oE=w1304-h697
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pikaruo&label=Profile%20views&color=0e75b6&style=flat" alt="pikaruo" /> </p>
 
