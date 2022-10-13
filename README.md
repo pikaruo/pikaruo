@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pikaruo" alt="pikaruo" /></a> </p>
 
-- 🔭 I’m currently working on [Crossy-Road-Version-Save-The-Eggs](https://github.com/pikaruo/Crossy-Road-Version-Save-The-Eggs)
+- 🔭 I’m currently working on [Tsunami Simulation](https://github.com/pikaruo/tsunami-simulation)
 
 - 🌱 I’m currently learning **Unity Engine**
 
