@@ -1,3 +1,5 @@
+[ABC](https://github.com/pikaruo/pikaruo/blob/main/background.png)
+
 <h1 align="center">Hi 👋, I'm pikaruo</h1>
 <h3 align="center">A passionate backend developer from Java</h3>
 
