@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pikaruo" alt="pikaruo" /></a> </p>
 
-- 🔭 I’m currently working on [Save The World](https://github.com/pikaruo/Save-The-World) || [My Profile](#)
+- 🔭 I’m currently working on [Save The World](https://github.com/pikaruo/Save-The-World) && [My Profile](#)
 
 - 🌱 I’m currently learning **Unity Engine**
 
