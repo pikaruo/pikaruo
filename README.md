@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm pikaruo</h1>
 <h3 align="center">A passionate backend developer from Java</h3>
-<p align="center"> [Save The World](https://github.com/pikaruo/Save-The-World)</p>
+
+[My Coding Game Profile](https://www.codingame.com/profile/25cae43ef172d5e7380e506a18a3495f3042615)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pikaruo&label=Profile%20views&color=0e75b6&style=flat" alt="pikaruo" /> </p>
 
